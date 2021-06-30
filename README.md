@@ -2,7 +2,9 @@
 
 Spec Runner
 
-apache cordova jasmine
+https://luisenriquecorona.github.io/jasmine/
+
+Apache Cordova jasmine
 
 https://github.com/jasmine/jasmine/releases
 
